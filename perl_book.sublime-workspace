@@ -1,0 +1,1957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"openx"
+			],
+			[
+				"reg",
+				"regs_ext"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"O",
+				"OpenRTBMapper"
+			],
+			[
+				"user_i",
+				"user_ip_from_device"
+			],
+			[
+				"xff",
+				"xff_3_octets"
+			],
+			[
+				"RE",
+				"RE2_RUBICON_IP_LAST_OCTET"
+			],
+			[
+				"anon",
+				"anonymus_id"
+			],
+			[
+				"pub",
+				"pubmatic"
+			],
+			[
+				"ifram",
+				"iframebuster"
+			],
+			[
+				"app",
+				"appstoreid"
+			],
+			[
+				"manual_",
+				"manual_filtered_clicks"
+			],
+			[
+				"cli",
+				"clickTag1"
+			],
+			[
+				"user",
+				"useragent"
+			],
+			[
+				"crea",
+				"creative_id"
+			],
+			[
+				"re",
+				"referer"
+			],
+			[
+				"log_re",
+				"log_record"
+			],
+			[
+				"filter",
+				"filtered_bc"
+			],
+			[
+				"filte",
+				"filtered_bc"
+			],
+			[
+				"exc",
+				"excluded_attrs"
+			],
+			[
+				"bidf",
+				"bidfloor"
+			],
+			[
+				"ex",
+				"expires_at"
+			],
+			[
+				"mon",
+				"mongo_field"
+			],
+			[
+				"bidre",
+				"bid_request"
+			],
+			[
+				"ad",
+				"advertiser"
+			],
+			[
+				"month",
+				"months"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"time",
+				"time_zone"
+			],
+			[
+				"set",
+				"set_time_zone"
+			],
+			[
+				"b",
+				"buyeruid"
+			],
+			[
+				"imp",
+				"imp_request"
+			],
+			[
+				"no",
+				"nobid"
+			],
+			[
+				"bid_re",
+				"bid_request"
+			],
+			[
+				"seg",
+				"segment"
+			],
+			[
+				"se",
+				"segment"
+			],
+			[
+				"c",
+				"comment"
+			],
+			[
+				"line",
+				"line_items"
+			],
+			[
+				"line_ite",
+				"line_item"
+			],
+			[
+				"parse",
+				"parsed_atx_segs"
+			],
+			[
+				"rec",
+				"record"
+			],
+			[
+				"ti",
+				"timestamps"
+			],
+			[
+				"t_fr",
+				"t_frames_out"
+			],
+			[
+				"tie",
+				"timestamp"
+			],
+			[
+				"ho",
+				"hourly"
+			],
+			[
+				"B",
+				"BucketTimestamp"
+			],
+			[
+				"expi",
+				"expire_timestamp"
+			],
+			[
+				"User",
+				"UserData"
+			],
+			[
+				"MIN_WE",
+				"MIN_GOOGLE_VERTICAL_WEIGHT"
+			],
+			[
+				"ve",
+				"vertical"
+			],
+			[
+				"ver",
+				"verticals"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "2_digits_multi.pl",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2_str_multi.pl",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "3_arr_reverse.pl",
+			"settings":
+			{
+				"buffer_size": 126,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "3_arr_rand.pl",
+			"settings":
+			{
+				"buffer_size": 133,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "4_temper.pl",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "5_words_count.pl",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "6_cat.pl",
+			"settings":
+			{
+				"buffer_size": 119,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packea",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/agorobets/perl_book/2_digits_multi.p;",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/CommonTests/2_digits_multi",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/CommonTests/Bid.pm.orig",
+		"/home/agorobets/projects/bidswitch/trunk/lua/zedo.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/yume.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/yieldpartners.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/yieldone_innity.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/yieldone.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/yieldlab.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/xrost.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/wordpress.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/triplelift.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/switchconcepts.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/stickyads.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/sspicyads.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/spotx.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/sonobi.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/smartadserver.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/smaato.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/scaleout.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/rubicon_ortb.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/rmx.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/republer.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/rbc.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/pulsepoint.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/pubmatic_ortb.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/pubmatic.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/powerlinks.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/openx_jp.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/openx.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/ngpas.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/nexage.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/netsprint.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/mopub.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/mobfox.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/mads.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/liverail_ortb.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/liverail.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/liveintent.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/inneractive.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/improve.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/ibillboard.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/gumgum.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/admax.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/google_base.lua",
+		"/home/agorobets/projects/bidswitch/trunk/proto/realtime-bidding.proto",
+		"/home/agorobets/projects/bidswitch/trunk/lua/rtb.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/rtb_util.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/admeta.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/CommonTests/Bid.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lua/google.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/geniee.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/fmx.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/falktech.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/epom.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/engage.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adskom.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/brightroll.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/creafi.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/cox.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/centro.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/casale.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/between.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/aol.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/altitude.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adscale.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adriver.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adru.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/rtb_mapper.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adaptv_ortb.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adaptv.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adblade.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adconductor.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adeasy.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/adform.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Adblade.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Adaptv_ortb.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/Globals.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lua/google_dicts.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/GoogleBase.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Brx.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lua/brightroll_dicts.lua",
+		"/home/agorobets/projects/bidswitch/trunk/ChangeLog",
+		"/home/agorobets/projects/bidswitch/trunk/script.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lua/openx_dicts.lua",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Openx.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Xrost.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Yieldpartners.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Yume.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Pulsepoint.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Zedo.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Triplelift.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Wordpress.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Switchconcepts.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Stickyads.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Sspicyads.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Spotx.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Sonobi.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Smartadserver.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Smaato.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Scaleout.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Rubicon.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Republer.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Rbc.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Pubmatic_ortb.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Powerlinks.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Openx_jp.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Ngpas.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Nexage.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Netsprint.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Mopub.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Mobfox.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Mads.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Liverail_ortb.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Liveintent.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Inneractive.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Improve.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Ibillboard.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Gumgum.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Geniee.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Fmx.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Falktech.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Epom.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Creafi.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Cox.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Centro.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Casale.pm",
+		"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP/Between.pm"
+	],
+	"find":
+	{
+		"height": 97.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/lib",
+			"/home/agorobets/projects/bidswitch/trunk/t",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/lib",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/lib",
+			"/home/agorobets/projects/bidswitch/trunk/t",
+			"/home/agorobets/projects/bidswitch/trunk/lua/",
+			"/home/agorobets/projects/bidswitch/trunk/lib/",
+			"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/lib",
+			"liblua",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/lib",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/proto",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/lib",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/",
+			"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP",
+			"/home/agorobets/projects/bidswitch/trunk",
+			"/home/agorobets/projects/bidswitch/trunk/lib/BidSwitch/SSP",
+			"/home/agorobets/projects/bidswitch/trunk/",
+			"/home/agorobets/projects/bidswitch/trunk/t",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/u-etl",
+			"/home/agorobets/projects/bidswitch/trunk",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/",
+			"/home/agorobets/projects/bidswitch/trunk/lua",
+			"/home/agorobets/projects/bidswitch/trunk/t",
+			"/home/agorobets/projects/bidswitch/trunk",
+			"/home/agorobets/projects/btw-dsp/trunk",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/u-etl",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk/t-uetl",
+			"/home/agorobets/projects/btw-dsp/trunk/scripts",
+			"/home/agorobets/projects/btw-dsp/trunk",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk/t-uetl",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/avro_schema",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk",
+			"/home/agorobets/projects/btw-dsp/trunk/lib",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/lib/BTWDSP",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/btw-dsp/trunk/t,*.t",
+			"/home/agorobets/projects/btw-dsp/trunk/t",
+			"/home/agorobets/projects/btw-dsp/trunk/lua",
+			"/home/agorobets/projects/mediadecision/trunk",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/t,*.t",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/avro_schema",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision/trunk/",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/lua/targeting",
+			"/home/agorobets/projects/userverlua/test/lib",
+			"/home/agorobets/projects/mediadecision/trunk",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision/trunk",
+			"/home/agorobets/projects/mediadecision/trunk/t-uetl",
+			"/home/agorobets/projects/mediadecision/trunk/u-etl",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision/trunk/",
+			"/home/agorobets/projects/mediadecision/trunk/lib/Postprocess",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/userverlua",
+			"/home/agorobets/projects/mediadecision/trunk",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision/trunk/lib/Postprocess",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/userverlua/trunk",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/lib/Postprocess/LineItem/Targeting",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision",
+			"/home/agorobets/projects/mediadecision/trunk",
+			"/home/agorobets/projects/mediadecision",
+			"/home/agorobets/projects/mediadecision/trunk",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision/trunk",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/lib",
+			"/home/agorobets/projects/mediadecision/trunk/t",
+			"/home/agorobets/projects/mediadecision/trunk/lua",
+			"/home/agorobets/projects/mediadecision"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SSP_NO_SITE_DOMAIN",
+			"SSP_HOST_FROM_URL",
+			"SSP_URL_FROM_DOMAIN",
+			"SSP_NO_REFERER",
+			"SSP_NO_SITE_DOMAIN",
+			"normalize_url",
+			"site.page",
+			"ssp_domain",
+			".site",
+			"SSP_NO_REFERER",
+			"page",
+			"site_tests",
+			"add_common_site_tests",
+			"SSP_HOST_FROM_URL",
+			"SSP_NO_REFERER",
+			"SSP_NO_DO",
+			"c2",
+			"cp2",
+			"cp",
+			"SSP_NO_REFERER",
+			"SSP_URL_FROM_DOMAIN",
+			"site_tests",
+			"SSP_NO_SITE_DOMAIN",
+			"domain",
+			"url",
+			"SSP_NO_SITE_DOMAIN",
+			"{id,page,domain,name",
+			"SSP_HOST",
+			"SSP_NO_SITE_DOMAIN",
+			"SSP_URL_FROM_DOMAIN",
+			"SSP_HOST",
+			"SSP_",
+			"shapers",
+			"SSP_HOST_FROM_URL",
+			"SSP_DOMAIN_FROM_URL",
+			"SSP_HOST_FROM_URL",
+			"SSP_",
+			"cat",
+			".cat",
+			"in_app_tests",
+			"simple bid",
+			"validate_cat",
+			".cat",
+			"detected_vertical",
+			"site_or_app",
+			"map_device_properties",
+			"ssp_domain",
+			"domain",
+			"site.domain",
+			"id,page,domain,name",
+			"log dsp_bid for request",
+			"assert log dsp_bid for request",
+			"assert log dsp_bid for request ",
+			"assert log dsp_bid for request",
+			"prepare_ssp_bid_context",
+			"make_adslot_context",
+			"check_ssp_blacklists",
+			"referrer_domain",
+			"prepare_ssp_bid_context",
+			"validate_ssp_bid_context",
+			"prepare_ssp_bid_context",
+			"ssp_bid_context_to_array",
+			".site",
+			"SSP_DOMAIN_FROM_URL",
+			"USE_",
+			"ssp_domain",
+			"normalize_url",
+			"ssp_domain",
+			"ssp_bid_id",
+			"connectiontype",
+			"ORTB_CONNECTION_TYPE",
+			"prepare_device_object",
+			"DeviceType",
+			"create_device_object",
+			"ip address",
+			"decode_to_ip",
+			"decode_to_ip\ndecode_to_ip",
+			"decode_to_ip",
+			"ip",
+			"device_o",
+			"MOBILE",
+			"AdXRequest",
+			"create_device_object",
+			"mobile",
+			"mobile_device_type",
+			"create_device_object",
+			"ORTB_TO_OPENX_CONNECTION_TYPE",
+			"nil",
+			"prepare_device_object",
+			"NO_DEVICE_FLASHVER",
+			"fv",
+			"ip",
+			"NO_DEVICE_DNT",
+			"'0'",
+			"NO_DEVICE_IFA",
+			"add_common_device_tests",
+			"NO_DEVICE_JS",
+			"prepare_device_object",
+			"InventoryClass",
+			"inventory_class",
+			"devicetype",
+			"append_video_properties",
+			"fall",
+			"auction_type",
+			"bid_request.at",
+			"OpenRTBMapper:append_root_level_properties(sbc.details",
+			"OpenRTBMapper:append_root_level_properties(ssp_bid_context.details",
+			"append_root_level_properties",
+			"get_common_restricted_case",
+			"do_bid",
+			"DEFAULT_BCAT",
+			"bcat",
+			"userver.deep_dump",
+			"debug_log",
+			"RE2_CONTENT_CAT",
+			"validate_bcat",
+			"bcat",
+			"set_defaults",
+			"IAB18-2",
+			"RE2_CONTENT_CAT",
+			"validate_bcat",
+			"bcat",
+			"DEFAULT_BCAT",
+			"bcat",
+			"size2",
+			"BCAT",
+			"our",
+			"ORTB_SKIPPABLE_TO_RUBICON"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"OpenRTBMapper:append_root_level_properties(sbc",
+			"OpenRTBMapper:append_root_level_properties(ssp_bid_context",
+			"runtime.body"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "2_digits_multi.pl",
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "2_str_multi.pl",
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "3_arr_reverse.pl",
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "3_arr_rand.pl",
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "4_temper.pl",
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "5_words_count.pl",
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "6_cat.pl",
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"global",
+				"trunk/lua/global.lua"
+			],
+			[
+				"targeting.pm",
+				"trunk/lib/Postprocess/LineItem/Targeting.pm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true
+}
