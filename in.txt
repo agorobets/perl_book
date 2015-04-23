@@ -1,0 +1,2 @@
+guest world
+there is a guest in the str
